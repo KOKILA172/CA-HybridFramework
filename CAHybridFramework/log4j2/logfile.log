@@ -55,3 +55,15 @@
 [INFO ] 2022-05-17 21:39:22.865 [main] BaseClass - navigated to track order page
 [INFO ] 2022-05-17 21:42:05.433 [main] BaseClass - navigated to track order page
 [INFO ] 2022-05-17 22:00:32.084 [main] BaseClass - Sucessfully navigated to wishlist
+[INFO ] 2022-05-17 22:22:52.897 [main] BaseClass - Sucessfully navigated to wishlist
+[INFO ] 2022-05-17 22:27:34.000 [main] BaseClass - chrome is opened succesfully
+[INFO ] 2022-05-17 22:27:46.177 [main] BaseClass - login is valid
+[INFO ] 2022-05-17 22:27:58.904 [main] BaseClass - Succesfully validated text message and title
+[INFO ] 2022-05-17 22:28:12.054 [main] BaseClass - Succesfully found the product
+[INFO ] 2022-05-17 22:28:23.112 [main] BaseClass - product found by using dropdown
+[INFO ] 2022-05-17 22:28:37.225 [main] BaseClass - sucessfully checks cart is empty
+[INFO ] 2022-05-17 22:28:53.517 [main] BaseClass - navigated to bagalore page
+[INFO ] 2022-05-17 22:29:06.973 [main] BaseClass - navigated to track order page
+[INFO ] 2022-05-17 22:29:15.240 [main] BaseClass - scrolls fromtop to bottom of homepage
+[INFO ] 2022-05-17 22:29:39.898 [main] BaseClass - Sucessfully navigated to wishlist
+[INFO ] 2022-05-17 22:30:21.384 [main] BaseClass - pages are navigating
