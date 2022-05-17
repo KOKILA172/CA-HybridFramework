@@ -49,7 +49,7 @@ public class TestCase10 extends BaseClass {
 		n.getDecor().click();
 		Thread.sleep(3000);
 		n.getColection().click();
-		Thread.sleep(3000);
+		Thread.sleep(2000);
 		log.info("pages are navigating");
 		}
 	@AfterMethod()
