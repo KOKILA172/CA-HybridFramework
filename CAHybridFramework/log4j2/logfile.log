@@ -67,3 +67,5 @@
 [INFO ] 2022-05-17 22:29:15.240 [main] BaseClass - scrolls fromtop to bottom of homepage
 [INFO ] 2022-05-17 22:29:39.898 [main] BaseClass - Sucessfully navigated to wishlist
 [INFO ] 2022-05-17 22:30:21.384 [main] BaseClass - pages are navigating
+[INFO ] 2022-05-17 22:42:27.916 [main] BaseClass - navigated to track order page
+[INFO ] 2022-05-17 22:45:05.977 [main] BaseClass - Sucessfully navigated to wishlist

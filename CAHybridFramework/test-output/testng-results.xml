@@ -1,279 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-05-17T22:27:21 IST" name="Suite" finished-at="2022-05-17T22:30:21 IST" duration-ms="180583">
+  <suite started-at="2022-05-17T22:44:54 IST" name="Default suite" finished-at="2022-05-17T22:45:08 IST" duration-ms="13727">
     <groups>
     </groups>
-    <test started-at="2022-05-17T22:27:21 IST" name="Test1" finished-at="2022-05-17T22:27:48 IST" duration-ms="27087">
-      <class name="Runner.TestCase1">
-        <test-method is-config="true" signature="initialze()[pri:0, instance:Runner.TestCase1@239b0f9d]" started-at="2022-05-17T22:27:21 IST" name="initialze" finished-at="2022-05-17T22:27:25 IST" duration-ms="4523" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initialze -->
-        <test-method signature="Test1navigation()[pri:0, instance:Runner.TestCase1@239b0f9d]" started-at="2022-05-17T22:27:25 IST" name="Test1navigation" finished-at="2022-05-17T22:27:46 IST" duration-ms="20205" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test1navigation -->
-        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:Runner.TestCase1@239b0f9d]" started-at="2022-05-17T22:27:46 IST" name="tearDownMethod" finished-at="2022-05-17T22:27:46 IST" duration-ms="4" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=Test1navigation status=SUCCESS method=TestCase1.Test1navigation()[pri:0, instance:Runner.TestCase1@239b0f9d] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Runner.TestCase1@239b0f9d]" started-at="2022-05-17T22:27:46 IST" name="teardown" finished-at="2022-05-17T22:27:48 IST" duration-ms="2249" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- Runner.TestCase1 -->
-    </test> <!-- Test1 -->
-    <test started-at="2022-05-17T22:27:50 IST" name="Test2" finished-at="2022-05-17T22:28:00 IST" duration-ms="10081">
-      <class name="Runner.TestCase2">
-        <test-method is-config="true" signature="initialze()[pri:0, instance:Runner.TestCase2@275fe372]" started-at="2022-05-17T22:27:50 IST" name="initialze" finished-at="2022-05-17T22:27:51 IST" duration-ms="1728" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initialze -->
-        <test-method signature="Test2navigation()[pri:0, instance:Runner.TestCase2@275fe372]" started-at="2022-05-17T22:27:51 IST" name="Test2navigation" finished-at="2022-05-17T22:27:58 IST" duration-ms="6955" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test2navigation -->
-        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:Runner.TestCase2@275fe372]" started-at="2022-05-17T22:27:58 IST" name="tearDownMethod" finished-at="2022-05-17T22:27:58 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=Test2navigation status=SUCCESS method=TestCase2.Test2navigation()[pri:0, instance:Runner.TestCase2@275fe372] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Runner.TestCase2@275fe372]" started-at="2022-05-17T22:27:58 IST" name="teardown" finished-at="2022-05-17T22:28:00 IST" duration-ms="1388" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- Runner.TestCase2 -->
-    </test> <!-- Test2 -->
-    <test started-at="2022-05-17T22:28:00 IST" name="Test3" finished-at="2022-05-17T22:28:12 IST" duration-ms="12211">
-      <class name="Runner.TestCase3">
-        <test-method is-config="true" signature="initialze()[pri:0, instance:Runner.TestCase3@31e75d13]" started-at="2022-05-17T22:28:00 IST" name="initialze" finished-at="2022-05-17T22:28:03 IST" duration-ms="2699" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initialze -->
-        <test-method signature="Test3navigation()[pri:0, instance:Runner.TestCase3@31e75d13]" started-at="2022-05-17T22:28:03 IST" name="Test3navigation" finished-at="2022-05-17T22:28:12 IST" duration-ms="8976" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test3navigation -->
-        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:Runner.TestCase3@31e75d13]" started-at="2022-05-17T22:28:12 IST" name="tearDownMethod" finished-at="2022-05-17T22:28:12 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=Test3navigation status=SUCCESS method=TestCase3.Test3navigation()[pri:0, instance:Runner.TestCase3@31e75d13] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Runner.TestCase3@31e75d13]" started-at="2022-05-17T22:28:12 IST" name="teardown" finished-at="2022-05-17T22:28:12 IST" duration-ms="527" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- Runner.TestCase3 -->
-    </test> <!-- Test3 -->
-    <test started-at="2022-05-17T22:28:12 IST" name="Test4" finished-at="2022-05-17T22:28:23 IST" duration-ms="10899">
-      <class name="Runner.TestCase4">
-        <test-method is-config="true" signature="initialze()[pri:0, instance:Runner.TestCase4@2f9a01c1]" started-at="2022-05-17T22:28:12 IST" name="initialze" finished-at="2022-05-17T22:28:14 IST" duration-ms="1543" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initialze -->
-        <test-method signature="Test4navigation()[pri:0, instance:Runner.TestCase4@2f9a01c1]" started-at="2022-05-17T22:28:14 IST" name="Test4navigation" finished-at="2022-05-17T22:28:23 IST" duration-ms="8914" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test4navigation -->
-        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:Runner.TestCase4@2f9a01c1]" started-at="2022-05-17T22:28:23 IST" name="tearDownMethod" finished-at="2022-05-17T22:28:23 IST" duration-ms="2" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=Test4navigation status=SUCCESS method=TestCase4.Test4navigation()[pri:0, instance:Runner.TestCase4@2f9a01c1] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Runner.TestCase4@2f9a01c1]" started-at="2022-05-17T22:28:23 IST" name="teardown" finished-at="2022-05-17T22:28:23 IST" duration-ms="430" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- Runner.TestCase4 -->
-    </test> <!-- Test4 -->
-    <test started-at="2022-05-17T22:28:23 IST" name="Test5" finished-at="2022-05-17T22:28:37 IST" duration-ms="14348">
-      <class name="Runner.TestCase5">
-        <test-method is-config="true" signature="initialze()[pri:0, instance:Runner.TestCase5@5778826f]" started-at="2022-05-17T22:28:23 IST" name="initialze" finished-at="2022-05-17T22:28:26 IST" duration-ms="3285" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initialze -->
-        <test-method signature="Test5navigation()[pri:0, instance:Runner.TestCase5@5778826f]" started-at="2022-05-17T22:28:26 IST" name="Test5navigation" finished-at="2022-05-17T22:28:37 IST" duration-ms="10334" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test5navigation -->
-        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:Runner.TestCase5@5778826f]" started-at="2022-05-17T22:28:37 IST" name="tearDownMethod" finished-at="2022-05-17T22:28:37 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=Test5navigation status=SUCCESS method=TestCase5.Test5navigation()[pri:0, instance:Runner.TestCase5@5778826f] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Runner.TestCase5@5778826f]" started-at="2022-05-17T22:28:37 IST" name="teardown" finished-at="2022-05-17T22:28:37 IST" duration-ms="720" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- Runner.TestCase5 -->
-    </test> <!-- Test5 -->
-    <test started-at="2022-05-17T22:28:37 IST" name="Test6" finished-at="2022-05-17T22:28:54 IST" duration-ms="16044">
-      <class name="Runner.TestCase6">
-        <test-method is-config="true" signature="initialze()[pri:0, instance:Runner.TestCase6@15c25153]" started-at="2022-05-17T22:28:37 IST" name="initialze" finished-at="2022-05-17T22:28:40 IST" duration-ms="2287" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initialze -->
-        <test-method signature="Test6navigation()[pri:0, instance:Runner.TestCase6@15c25153]" started-at="2022-05-17T22:28:40 IST" name="Test6navigation" finished-at="2022-05-17T22:28:53 IST" duration-ms="13260" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test6navigation -->
-        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:Runner.TestCase6@15c25153]" started-at="2022-05-17T22:28:53 IST" name="tearDownMethod" finished-at="2022-05-17T22:28:53 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=Test6navigation status=SUCCESS method=TestCase6.Test6navigation()[pri:0, instance:Runner.TestCase6@15c25153] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Runner.TestCase6@15c25153]" started-at="2022-05-17T22:28:53 IST" name="teardown" finished-at="2022-05-17T22:28:54 IST" duration-ms="488" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- Runner.TestCase6 -->
-    </test> <!-- Test6 -->
-    <test started-at="2022-05-17T22:28:54 IST" name="Test7" finished-at="2022-05-17T22:29:07 IST" duration-ms="13758">
-      <class name="Runner.TestCase7">
-        <test-method is-config="true" signature="initialze()[pri:0, instance:Runner.TestCase7@5b408dc3]" started-at="2022-05-17T22:28:54 IST" name="initialze" finished-at="2022-05-17T22:28:56 IST" duration-ms="2678" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initialze -->
-        <test-method signature="Test7navigation()[pri:0, instance:Runner.TestCase7@5b408dc3]" started-at="2022-05-17T22:28:56 IST" name="Test7navigation" finished-at="2022-05-17T22:29:06 IST" duration-ms="10228" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test7navigation -->
-        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:Runner.TestCase7@5b408dc3]" started-at="2022-05-17T22:29:06 IST" name="tearDownMethod" finished-at="2022-05-17T22:29:06 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=Test7navigation status=SUCCESS method=TestCase7.Test7navigation()[pri:0, instance:Runner.TestCase7@5b408dc3] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Runner.TestCase7@5b408dc3]" started-at="2022-05-17T22:29:06 IST" name="teardown" finished-at="2022-05-17T22:29:07 IST" duration-ms="842" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- Runner.TestCase7 -->
-    </test> <!-- Test7 -->
-    <test started-at="2022-05-17T22:29:07 IST" name="Test8" finished-at="2022-05-17T22:29:16 IST" duration-ms="8994">
-      <class name="Runner.TestCase8">
-        <test-method is-config="true" signature="initialze()[pri:0, instance:Runner.TestCase8@773f7880]" started-at="2022-05-17T22:29:07 IST" name="initialze" finished-at="2022-05-17T22:29:09 IST" duration-ms="2023" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initialze -->
-        <test-method signature="Test8navigation()[pri:0, instance:Runner.TestCase8@773f7880]" started-at="2022-05-17T22:29:09 IST" name="Test8navigation" finished-at="2022-05-17T22:29:15 IST" duration-ms="5320" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test8navigation -->
-        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:Runner.TestCase8@773f7880]" started-at="2022-05-17T22:29:15 IST" name="tearDownMethod" finished-at="2022-05-17T22:29:15 IST" duration-ms="0" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=Test8navigation status=SUCCESS method=TestCase8.Test8navigation()[pri:0, instance:Runner.TestCase8@773f7880] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Runner.TestCase8@773f7880]" started-at="2022-05-17T22:29:15 IST" name="teardown" finished-at="2022-05-17T22:29:16 IST" duration-ms="1640" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- Runner.TestCase8 -->
-    </test> <!-- Test8 -->
-    <test started-at="2022-05-17T22:29:16 IST" name="Test9" finished-at="2022-05-17T22:29:42 IST" duration-ms="25220">
+    <test started-at="2022-05-17T22:44:54 IST" name="Default test" finished-at="2022-05-17T22:45:08 IST" duration-ms="13727">
       <class name="Runner.TestCase9">
-        <test-method is-config="true" signature="initialze()[pri:0, instance:Runner.TestCase9@773cbf4f]" started-at="2022-05-17T22:29:16 IST" name="initialze" finished-at="2022-05-17T22:29:18 IST" duration-ms="1817" status="PASS">
+        <test-method is-config="true" signature="initialze()[pri:0, instance:Runner.TestCase9@12dae582]" started-at="2022-05-17T22:44:54 IST" name="initialze" finished-at="2022-05-17T22:44:57 IST" duration-ms="3313" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialze -->
-        <test-method signature="Test9navigation()[pri:0, instance:Runner.TestCase9@773cbf4f]" started-at="2022-05-17T22:29:18 IST" name="Test9navigation" finished-at="2022-05-17T22:29:39 IST" duration-ms="21181" status="PASS">
+        <test-method signature="Test9navigation()[pri:0, instance:Runner.TestCase9@12dae582]" started-at="2022-05-17T22:44:57 IST" name="Test9navigation" finished-at="2022-05-17T22:45:05 IST" duration-ms="8042" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test9navigation -->
-        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:Runner.TestCase9@773cbf4f]" started-at="2022-05-17T22:29:39 IST" name="tearDownMethod" finished-at="2022-05-17T22:29:39 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:Runner.TestCase9@12dae582]" started-at="2022-05-17T22:45:06 IST" name="tearDownMethod" finished-at="2022-05-17T22:45:06 IST" duration-ms="19" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Test9navigation status=SUCCESS method=TestCase9.Test9navigation()[pri:0, instance:Runner.TestCase9@773cbf4f] output={null}]]]>
+                <![CDATA[[TestResult name=Test9navigation status=SUCCESS method=TestCase9.Test9navigation()[pri:0, instance:Runner.TestCase9@12dae582] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Runner.TestCase9@773cbf4f]" started-at="2022-05-17T22:29:39 IST" name="teardown" finished-at="2022-05-17T22:29:42 IST" duration-ms="2213" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Runner.TestCase9@12dae582]" started-at="2022-05-17T22:45:06 IST" name="teardown" finished-at="2022-05-17T22:45:08 IST" duration-ms="2236" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- Runner.TestCase9 -->
-    </test> <!-- Test9 -->
-    <test started-at="2022-05-17T22:29:42 IST" name="Test10" finished-at="2022-05-17T22:30:21 IST" duration-ms="39807">
-      <class name="Runner.TestCase10">
-        <test-method is-config="true" signature="initialze()[pri:0, instance:Runner.TestCase10@69637b10]" started-at="2022-05-17T22:29:42 IST" name="initialze" finished-at="2022-05-17T22:29:44 IST" duration-ms="2400" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initialze -->
-        <test-method signature="Test10navigation()[pri:0, instance:Runner.TestCase10@69637b10]" started-at="2022-05-17T22:29:44 IST" name="Test10navigation" finished-at="2022-05-17T22:30:21 IST" duration-ms="36848" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test10navigation -->
-        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:Runner.TestCase10@69637b10]" started-at="2022-05-17T22:30:21 IST" name="tearDownMethod" finished-at="2022-05-17T22:30:21 IST" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=Test10navigation status=SUCCESS method=TestCase10.Test10navigation()[pri:0, instance:Runner.TestCase10@69637b10] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Runner.TestCase10@69637b10]" started-at="2022-05-17T22:30:21 IST" name="teardown" finished-at="2022-05-17T22:30:21 IST" duration-ms="549" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- Runner.TestCase10 -->
-    </test> <!-- Test10 -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
