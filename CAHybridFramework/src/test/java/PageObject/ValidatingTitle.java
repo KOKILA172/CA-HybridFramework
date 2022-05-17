@@ -12,13 +12,13 @@ public class ValidatingTitle {
 	By text=By.xpath("//a[contains(text(),'Bulk Orders')]");
 	
 	By track=By.xpath("//header/div[1]/div[1]/section[3]/ul[1]/li[1]/a[1]/span[1]/*[1]");
-	By order=By.xpath("//input[@id='ip_379403698']");
+	By order=By.xpath("//*[@id='ip_379403698']");
 	By phone=By.xpath("//input[@id='ip_394711104']");
 	By submit=By.xpath("//span[contains(text(),'Submit')]");
 	public ValidatingTitle(WebDriver driver)
 	{
 		this.driver=driver;
-	}
+	}   
 	
 	public WebElement getTitle() {
 		// TODO Auto-generated method stub
