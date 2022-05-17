@@ -31,6 +31,7 @@ public class TestCase7 extends BaseClass {
 		driver.manage().window().maximize();
 
 		ValidatingTitle v = new ValidatingTitle(driver);
+		Thread.sleep(3000);
 		v.getTrack().click();
 		v.getOrder().sendKeys("1234");
 		v.getPhone().sendKeys("9888888888");

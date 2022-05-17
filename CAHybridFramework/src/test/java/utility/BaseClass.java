@@ -17,14 +17,14 @@ public class BaseClass {
 	public WebDriver initializeDriver() throws IOException {
 
 		prop = new Properties();
-		FileInputStream fis = new FileInputStream("D:\\CA\\CAHybridFramework\\Config\\config.properties");
+		FileInputStream fis = new FileInputStream("C:\\Users\\DELL\\git\\CA-HybridFramework\\CAHybridFramework\\Config\\config.properties");
 		
 		prop.load(fis);
 		String browserName = prop.getProperty("browser");
 		
 		System.out.println(browserName);
 		if (browserName.equals("chrome")) {
-			System.setProperty("webdriver.chrome.driver", "D:\\CA\\CAHybridFramework\\target\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", "C:\\Users\\DELL\\git\\CA-HybridFramework\\CAHybridFramework\\target\\chromedriver.exe");
 			driver = new ChromeDriver();
 		}
 
