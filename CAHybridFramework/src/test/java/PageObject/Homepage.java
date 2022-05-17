@@ -14,7 +14,8 @@ public class Homepage {
 	By stores=By.xpath("//span[contains(text(),'Bangalore')]");
 	By viewdetalis=By.xpath("//body/div[@id='app-container']/div[1]/main[1]/section[2]/div[1]/a[1]/div[3]/button[1]");
 	By list=By.xpath("//header/div[1]/div[1]/section[3]/ul[1]/li[3]/a[1]/div[1]/span[1]/*[1]");
-	By login=By.xpath("//body/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[3]/a[1]");
+	
+	By login=By.xpath("//*[@id='signup-module']/div[3]/a");
 	By email=By.xpath("//input[@placeholder='Email Address']");
 	By pw=By.xpath("//input[@placeholder='Password']");
 	By log=By.xpath("//input[@id='ul_site_login']");
