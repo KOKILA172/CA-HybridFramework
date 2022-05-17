@@ -33,9 +33,7 @@ public class TestCase7 extends BaseClass {
 		ValidatingTitle v = new ValidatingTitle(driver);
 		
 		v.getTrack().click();
-		v.getOrder().sendKeys("1234");
-		v.getPhone().sendKeys("9888888888");
-		v.getSubmit().click();
+		
 		log.info("navigated to track order page");
 	}
 	@AfterMethod()

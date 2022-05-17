@@ -31,13 +31,7 @@ public class TestCase9 extends BaseClass {
 		driver.get(prop.getProperty("url"));
 		driver.manage().window().maximize();
 		Homepage h = new Homepage(driver);
-		Excelsheet e = new Excelsheet();
 		h.getList().click();
-		Thread.sleep(5000);
-		h.getLogin().click();
-		h.getEmail().sendKeys(e.getStringData("FirstSheet", 0, 0));
-		h.getPassword().sendKeys(e.getStringData("FirstSheet", 0, 1));
-		h.getLog().click();
 		log.info("Sucessfully navigated to wishlist");
 	}
 

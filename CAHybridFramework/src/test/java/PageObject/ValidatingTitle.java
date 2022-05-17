@@ -12,11 +12,7 @@ public class ValidatingTitle {
 	By text=By.xpath("//a[contains(text(),'Bulk Orders')]");
 	
 	By track=By.xpath("//header/div[1]/div[1]/section[3]/ul[1]/li[1]/a[1]/span[1]/*[1]");
-	By order=By.xpath("//input[@placeholder='Order Number']");
 	
-	
-	By phone=By.xpath("//input[@id='ip_394711104']");
-	By submit=By.xpath("//span[contains(text(),'Submit')]");
 	public ValidatingTitle(WebDriver driver)
 	{
 		this.driver=driver;
@@ -33,18 +29,6 @@ public class ValidatingTitle {
 	public WebElement getTrack() {
 		// TODO Auto-generated method stub
 		return driver.findElement(track);
-	}
-	public WebElement getOrder() {
-		// TODO Auto-generated method stub
-		return driver.findElement(order);
-	}
-	public WebElement getPhone() {
-		// TODO Auto-generated method stub
-		return driver.findElement(phone);
-	}
-	public WebElement getSubmit() {
-		// TODO Auto-generated method stub
-		return driver.findElement(submit);
 	}
 	
 
