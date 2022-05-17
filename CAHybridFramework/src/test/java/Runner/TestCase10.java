@@ -6,7 +6,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
-import org.testng.annotations.AfterTest;
+import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
@@ -59,7 +59,7 @@ public class TestCase10 extends BaseClass {
 		}
 	}
 
-	@AfterTest
+	@AfterSuite
 	public void teardown() {
 		driver.close();
 		driver = null;
