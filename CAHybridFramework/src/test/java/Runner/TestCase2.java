@@ -29,17 +29,21 @@ public class TestCase2 extends BaseClass {
 	}
 
 	@Test
-	public void Test2navigation() throws IOException {
+	public void Test2navigation() throws IOException, InterruptedException {
 
 		driver.get(prop.getProperty("url"));
 		driver.manage().window().maximize(); 
 	
 	ValidatingTitle v = new ValidatingTitle(driver);
+	Thread.sleep(3000);
 	Assert.assertEquals(v.getTitle().getText(), "Stores");
+	Thread.sleep(3000);
 	System.out.println(v.getTitle().getText());
+	Thread.sleep(3000);
 	Assert.assertEquals(v.getText().getText(), "Bulk Orders");
+	Thread.sleep(3000);
 	System.out.println(v.getText().getText());
-	
+	Thread.sleep(3000);
 	System.out.println(driver.getTitle());
 	log.info("Succesfully validated text message and title");
 }

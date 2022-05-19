@@ -83,3 +83,28 @@
 [INFO ] 2022-05-17 23:33:39.199 [main] BaseClass - Sucessfully navigated to wishlist
 [INFO ] 2022-05-17 23:34:23.149 [main] BaseClass - pages are navigating
 [INFO ] 2022-05-17 23:42:38.282 [main] BaseClass - pages are navigating
+[INFO ] 2022-05-18 08:46:39.135 [main] BaseClass - chrome is opened succesfully
+[INFO ] 2022-05-18 08:46:51.461 [main] BaseClass - login is valid
+[INFO ] 2022-05-18 08:47:02.616 [main] BaseClass - Succesfully validated text message and title
+[INFO ] 2022-05-18 08:47:16.753 [main] BaseClass - Succesfully found the product
+[INFO ] 2022-05-18 08:47:32.102 [main] BaseClass - product found by using dropdown
+[INFO ] 2022-05-18 08:47:45.638 [main] BaseClass - sucessfully checks cart is empty
+[INFO ] 2022-05-18 08:48:02.441 [main] BaseClass - navigated to bagalore page
+[INFO ] 2022-05-18 08:48:14.348 [main] BaseClass - navigated to track order page
+[INFO ] 2022-05-18 08:48:24.557 [main] BaseClass - scrolls fromtop to bottom of homepage
+[INFO ] 2022-05-18 08:48:35.973 [main] BaseClass - Sucessfully navigated to wishlist
+[INFO ] 2022-05-18 08:49:18.566 [main] BaseClass - pages are navigating
+[INFO ] 2022-05-18 13:43:27.220 [main] BaseClass - chrome is opened succesfully
+[INFO ] 2022-05-18 13:43:39.938 [main] BaseClass - login is valid
+[INFO ] 2022-05-19 10:23:55.935 [main] BaseClass - chrome is opened succesfully
+[INFO ] 2022-05-19 10:24:08.642 [main] BaseClass - login is valid
+[INFO ] 2022-05-19 10:24:20.221 [main] BaseClass - Succesfully validated text message and title
+[INFO ] 2022-05-19 10:24:34.822 [main] BaseClass - Succesfully found the product
+[INFO ] 2022-05-19 10:24:48.321 [main] BaseClass - product found by using dropdown
+[INFO ] 2022-05-19 10:25:04.227 [main] BaseClass - sucessfully checks cart is empty
+[INFO ] 2022-05-19 10:25:20.298 [main] BaseClass - navigated to bagalore page
+[INFO ] 2022-05-19 10:25:35.595 [main] BaseClass - navigated to track order page
+[INFO ] 2022-05-19 10:25:45.540 [main] BaseClass - scrolls fromtop to bottom of homepage
+[INFO ] 2022-05-19 10:26:00.116 [main] BaseClass - Sucessfully navigated to wishlist
+[INFO ] 2022-05-19 10:26:42.781 [main] BaseClass - pages are navigating
+[INFO ] 2022-05-19 20:13:53.569 [main] BaseClass - Succesfully validated text message and title
