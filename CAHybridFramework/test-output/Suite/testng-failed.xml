@@ -4,16 +4,16 @@
   <listeners>
     <listener class-name="utility.ExtentReporterNG"/>
   </listeners>
-  <test thread-count="5" name="Test1(failed)">
+  <test thread-count="5" name="Test6(failed)">
     <classes>
-      <class name="Runner.TestCase1">
+      <class name="Runner.TestCase6">
         <methods>
-          <include name="Test1navigation"/>
+          <include name="Test6navigation"/>
           <include name="initialze"/>
-          <include name="tearDownMethod"/>
           <include name="teardown"/>
+          <include name="tearDownMethod"/>
         </methods>
-      </class> <!-- Runner.TestCase1 -->
+      </class> <!-- Runner.TestCase6 -->
     </classes>
-  </test> <!-- Test1(failed) -->
+  </test> <!-- Test6(failed) -->
 </suite> <!-- Failed suite [Suite] -->

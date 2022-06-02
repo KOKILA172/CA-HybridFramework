@@ -108,3 +108,61 @@
 [INFO ] 2022-05-19 10:26:00.116 [main] BaseClass - Sucessfully navigated to wishlist
 [INFO ] 2022-05-19 10:26:42.781 [main] BaseClass - pages are navigating
 [INFO ] 2022-05-19 20:13:53.569 [main] BaseClass - Succesfully validated text message and title
+[INFO ] 2022-05-23 17:05:29.709 [main] BaseClass - chrome is opened succesfully
+[INFO ] 2022-05-23 17:05:44.100 [main] BaseClass - login is valid
+[INFO ] 2022-05-23 17:06:08.823 [main] BaseClass - Succesfully validated text message and title
+[INFO ] 2022-05-23 17:06:20.369 [main] BaseClass - Succesfully found the product
+[INFO ] 2022-05-23 17:06:33.737 [main] BaseClass - product found by using dropdown
+[INFO ] 2022-05-23 17:06:45.977 [main] BaseClass - sucessfully checks cart is empty
+[INFO ] 2022-05-23 17:07:05.295 [main] BaseClass - navigated to bagalore page
+[INFO ] 2022-05-23 17:07:18.921 [main] BaseClass - navigated to track order page
+[INFO ] 2022-05-23 17:07:27.328 [main] BaseClass - scrolls fromtop to bottom of homepage
+[INFO ] 2022-05-23 17:07:38.852 [main] BaseClass - Sucessfully navigated to wishlist
+[INFO ] 2022-05-23 17:08:17.588 [main] BaseClass - pages are navigating
+[INFO ] 2022-05-24 16:40:03.578 [main] BaseClass - chrome is opened succesfully
+[INFO ] 2022-05-24 16:40:18.956 [main] BaseClass - login is valid
+[INFO ] 2022-05-24 16:40:46.175 [main] BaseClass - Succesfully validated text message and title
+[INFO ] 2022-05-24 16:41:05.409 [main] BaseClass - Succesfully found the product
+[INFO ] 2022-05-24 16:41:19.165 [main] BaseClass - product found by using dropdown
+[INFO ] 2022-05-24 16:41:34.477 [main] BaseClass - sucessfully checks cart is empty
+[INFO ] 2022-05-24 16:41:55.343 [main] BaseClass - navigated to bagalore page
+[INFO ] 2022-05-24 16:42:07.273 [main] BaseClass - navigated to track order page
+[INFO ] 2022-05-24 16:42:15.372 [main] BaseClass - scrolls fromtop to bottom of homepage
+[INFO ] 2022-05-24 16:42:27.703 [main] BaseClass - Sucessfully navigated to wishlist
+[INFO ] 2022-05-24 16:43:06.077 [main] BaseClass - pages are navigating
+[INFO ] 2022-05-30 10:04:02.207 [main] BaseClass - chrome is opened succesfully
+[INFO ] 2022-05-30 10:05:02.356 [main] BaseClass - product found by using dropdown
+[INFO ] 2022-05-30 10:06:06.751 [main] BaseClass - scrolls fromtop to bottom of homepage
+[INFO ] 2022-05-30 10:21:44.883 [main] BaseClass - chrome is opened succesfully
+[INFO ] 2022-05-30 10:21:59.342 [main] BaseClass - login is valid
+[INFO ] 2022-05-30 10:22:27.207 [main] BaseClass - Succesfully validated text message and title
+[INFO ] 2022-05-30 10:22:41.192 [main] BaseClass - Succesfully found the product
+[INFO ] 2022-05-30 10:22:56.892 [main] BaseClass - product found by using dropdown
+[INFO ] 2022-05-30 10:23:13.086 [main] BaseClass - sucessfully checks cart is empty
+[INFO ] 2022-05-30 10:23:54.224 [main] BaseClass - navigated to track order page
+[INFO ] 2022-05-30 10:24:05.546 [main] BaseClass - scrolls fromtop to bottom of homepage
+[INFO ] 2022-05-30 10:24:20.237 [main] BaseClass - Sucessfully navigated to wishlist
+[INFO ] 2022-05-30 10:25:03.359 [main] BaseClass - pages are navigating
+[INFO ] 2022-05-30 10:33:50.832 [main] BaseClass - navigated to bangalore page
+[INFO ] 2022-05-30 10:34:41.787 [main] BaseClass - chrome is opened succesfully
+[INFO ] 2022-05-30 10:34:53.781 [main] BaseClass - login is valid
+[INFO ] 2022-05-30 10:35:19.060 [main] BaseClass - Succesfully validated text message and title
+[INFO ] 2022-05-30 10:35:31.152 [main] BaseClass - Succesfully found the product
+[INFO ] 2022-05-30 10:35:45.810 [main] BaseClass - product found by using dropdown
+[INFO ] 2022-05-30 10:36:05.182 [main] BaseClass - sucessfully checks cart is empty
+[INFO ] 2022-05-30 10:36:24.681 [main] BaseClass - navigated to bangalore page
+[INFO ] 2022-05-30 10:36:39.701 [main] BaseClass - navigated to track order page
+[INFO ] 2022-05-30 10:36:48.654 [main] BaseClass - scrolls fromtop to bottom of homepage
+[INFO ] 2022-05-30 10:37:02.796 [main] BaseClass - Sucessfully navigated to wishlist
+[INFO ] 2022-05-30 10:37:44.139 [main] BaseClass - pages are navigating
+[INFO ] 2022-06-02 10:39:36.979 [main] BaseClass - chrome is opened succesfully
+[INFO ] 2022-06-02 10:39:51.321 [main] BaseClass - login is valid
+[INFO ] 2022-06-02 10:40:16.264 [main] BaseClass - Succesfully validated text message and title
+[INFO ] 2022-06-02 10:40:27.767 [main] BaseClass - Succesfully found the product
+[INFO ] 2022-06-02 10:40:41.422 [main] BaseClass - product found by using dropdown
+[INFO ] 2022-06-02 10:40:53.928 [main] BaseClass - sucessfully checks cart is empty
+[INFO ] 2022-06-02 10:41:09.190 [main] BaseClass - navigated to bangalore page
+[INFO ] 2022-06-02 10:41:21.717 [main] BaseClass - navigated to track order page
+[INFO ] 2022-06-02 10:41:31.090 [main] BaseClass - scrolls fromtop to bottom of homepage
+[INFO ] 2022-06-02 10:41:43.999 [main] BaseClass - Sucessfully navigated to wishlist
+[INFO ] 2022-06-02 10:42:24.361 [main] BaseClass - pages are navigating

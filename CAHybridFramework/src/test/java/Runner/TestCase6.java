@@ -35,7 +35,7 @@ public class TestCase6 extends BaseClass {
 		h.getSale().click();
 		h.getStores().click();
 		h.getView().click();
-		log.info("navigated to bagalore page");
+		log.info("navigated to bangalore page");
 	}
 
 	@AfterMethod()

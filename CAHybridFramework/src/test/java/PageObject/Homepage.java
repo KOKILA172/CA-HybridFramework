@@ -12,7 +12,8 @@ public class Homepage {
 	By continueshopping =By.xpath("//a[contains(text(),'Continue shopping')]");
 	By sale=By.xpath("//header/div[2]/div[1]/nav[1]/div[1]/ul[1]/li[1]/span[1]");
 	By stores=By.xpath("//span[contains(text(),'Bangalore')]");
-	By viewdetalis=By.xpath("//body/div[@id='app-container']/div[1]/main[1]/section[2]/div[1]/a[1]/div[3]/button[1]");
+	//By viewdetalis=By.xpath("//body/div[@id='app-container']/div[1]/main[1]/section[2]/div[1]/a[1]/div[3]/button[1]");
+	By viewdetalis=By.xpath("//body/div[@id='app-container']/div[1]/main[1]/section[2]/div[1]/a[1]/div[2]/button[1]");
 	By list=By.xpath("//header/div[1]/div[1]/section[3]/ul[1]/li[3]/a[1]/div[1]/span[1]/*[1]");
 	
 	public Homepage(WebDriver driver)
